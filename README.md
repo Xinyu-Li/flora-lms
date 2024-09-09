@@ -10,7 +10,7 @@
 [Multi-Language Content (v2)]: https://moodle.org/plugins/filter_multilang2
 [Course Enrolment]: https://docs.moodle.org/311/en/Course_enrolment
 [Sample Courses]: https://drive.google.com/drive/folders/1SrPEC-_bQPm0OZs4PeMhOthkXUhZiibS?usp=sharing
-[flora-addons]: https://github.com/ssin122/flora-addon 
+[flora-addons]: https://github.com/Xinyu-Li/flora-addon 
 [sample-csv]: https://drive.google.com/file/d/1Qxyi5LWJCmKp1_XcEC4-eU0K_gvPVZEX/view?usp=sharing
 
 This learning management system is an adapted version of [Moodle] 3.9 that already includes several plugins to support the various interfaces and the logging of trace data needed to support the project. 

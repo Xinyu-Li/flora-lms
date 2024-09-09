@@ -226,5 +226,5 @@ However, we highly recommend that the clients use Google Chrome.
 Note: Duplicates or repeated user credentials will throw an exception. 
 
 ### Final Notes
-* Please note that this project is continuously maintained. However, some minor bugs may persist as the project is still evolving. If you encounter any issues or have any questions, please email: shaveen.singh@gmail.com
+* Please note that this project is continuously maintained. However, some minor bugs may persist as the project is still evolving. If you encounter any issues or have any questions, please email: xinyu.li1@monash.edu
 

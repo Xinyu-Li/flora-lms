@@ -1,3 +1,5 @@
+This version is deprecated. Please refer to https://github.com/Xinyu-Li/FLoRA for the new version.
+The FLoRA main website is: https://www.floraengine.org/home
 # FLoRA LMS Setup
 
 

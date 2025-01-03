@@ -232,3 +232,10 @@ Note: Duplicates or repeated user credentials will throw an exception.
 ### Final Notes
 * Please note that this project is continuously maintained. However, some minor bugs may persist as the project is still evolving. If you encounter any issues or have any questions, please email: xinyu.li1@monash.edu
 
+
+@article{li2025floraengine,<br>
+  title={The FLoRA Engine: Using Analytics to Measure and Facilitate Learners' own Regulation Activities},<br>
+  author={Li, Xinyu and Fan, Yizhou and Li, Tongguang and Raković, Mladen and Singh, Shaveen and van der Graaf, Joep and Lim, Lyn and Moore, Johanna and Molenaar, Inge and Bannert, Maria and Ga\v{s}evi\'{c}, Dragan},<br>
+  journal={Journal of Learning Analytics},<br>
+  year={2025}<br>
+}
